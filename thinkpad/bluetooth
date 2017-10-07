@@ -1,0 +1,6 @@
+################################################################################
+# Disable bluetooth on power-up
+################################################################################
+
+# Use TLP :
+https://ask.fedoraproject.org/en/question/70728/how-to-deactivate-bluetooth-on-startup/
